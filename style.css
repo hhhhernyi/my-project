@@ -1,0 +1,85 @@
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    background-color: #6096B4;
+    height: 470px;
+    font-family: 'Caprasimo', cursive;
+}
+.welcome {
+    font-size: 5rem;
+}
+
+.running-man {
+    height: 200px;
+    margin-top: 100px;
+}
+
+.about-me {
+    background-color: #93BFCF;
+    height: 500px;
+}
+
+.background-info {
+    background-color: #BDCDD6;
+    height: 600px;
+}
+
+.heading {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 3rem;
+}
+
+.background-pics {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;;
+    border: 10px solid #93BFCF;
+}
+
+.interests {
+    background-color: #EEE9DA;
+    height: 630px;
+    
+}
+.interests >.container>.container {
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.hobby-pic {
+    height:200px;
+    width: 300px;
+    background-position: center;
+    border-radius: 10px;
+}
+
+.other-project {
+    background-color: #FAF7F0;
+    height: 130px;
+}
+
+.profile-pic {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.nav-bar {
+    background-color: #BCCEF8;
+    height: 130px;
+}
+.info5 {
+    background-color: #98A8F8;
+    height: 200px;
+}
+
+.nav-item {
+    font-size: 2rem;;
+}
+
+.sun {
+    height: 100px;
+}
